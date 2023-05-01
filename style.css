@@ -1,0 +1,32 @@
+table {
+  width: 60%;
+  margin: 100px auto;
+  font-size: 15px;
+  border-collapse: collapse;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-bottom: 4px solid #019779;
+}
+tr:first-child {
+  background-color: #019779;
+  color: white;
+}
+tr:first-child th {
+  padding: 15px 2px;
+}
+td {
+  text-align: center;
+}
+.delete {
+  background-color: #db1337;
+  color: white;
+  padding: 8px 20px;
+  cursor: pointer;
+  border: none;
+}
+.edit {
+  cursor: pointer;
+  background-color: #019578;
+  color: white;
+  padding: 8px 15px;
+  border: none;
+}
