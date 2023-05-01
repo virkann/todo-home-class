@@ -11,6 +11,7 @@ table {
   font-size: 14px;
   border-collapse: collapse;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-bottom: 3px solid #019578;
   
 }
 tr:first-child {
@@ -31,9 +32,10 @@ td {
   border: none;
 }
 .edit {
-  cursor: pointer;
+
   background-color: #019578;
   color: white;
   padding: 8px 15px;
   border: none;
+  cursor: pointer;
 }
