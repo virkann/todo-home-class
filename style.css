@@ -1,10 +1,17 @@
+
+
+.user{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
 table {
   width: 60%;
-  margin: 100px auto;
-  font-size: 15px;
+  margin: 0px auto;
+  font-size: 14px;
   border-collapse: collapse;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  border-bottom: 4px solid #019779;
+  
 }
 tr:first-child {
   background-color: #019779;
